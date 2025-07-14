@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "Core\\Src\\lvgl\\build\\windows-base",
+      "Core\\Src\\lvgl\\build\\install\\windows-base"
+    ]
+  }
+}

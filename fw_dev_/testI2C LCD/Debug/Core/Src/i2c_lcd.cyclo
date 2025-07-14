@@ -1,0 +1,6 @@
+../Core/Src/i2c_lcd.c:13:6:LCD_Init	1
+../Core/Src/i2c_lcd.c:33:6:LCD_Clear	1
+../Core/Src/i2c_lcd.c:38:6:LCD_SetCursor	1
+../Core/Src/i2c_lcd.c:43:6:LCD_Print	2
+../Core/Src/i2c_lcd.c:49:13:LCD_WriteNibble	1
+../Core/Src/i2c_lcd.c:58:13:LCD_WriteByte	1

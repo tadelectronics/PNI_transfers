@@ -1,0 +1,4 @@
+../Core/Src/pllinit.c:10:19:BU2630F_Init	24	static
+../Core/Src/pllinit.c:36:19:BU2630F_EnablePLL	40	static
+../Core/Src/pllinit.c:42:19:BU2630F_SetFrequency	32	static
+../Core/Src/pllinit.c:47:19:BU2630F_ReadStatus	32	static
